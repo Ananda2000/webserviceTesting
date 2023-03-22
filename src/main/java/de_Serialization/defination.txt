@@ -1,0 +1,3 @@
+#---what is deserialization ?
+   Ans -- process of converting the json response body [or byte stream] into java object.... 
+   	by using pojo class..
