@@ -26,6 +26,7 @@ public class A_1Program
 		JsonElement s1 =new JsonParser().parse(f1);
 		System.out.println(s1);
 		boolean ss =s1.isJsonObject();
+		//JsonPath jsp1 = new JsonPath(s1);
 		System.out.println("boolean--->"+ss);
 		if(ss==true)
 		{
