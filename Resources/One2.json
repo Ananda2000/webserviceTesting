@@ -1,11 +1,5 @@
 {
-"Names":
-[{
-"Name":"ananda K R 1",
-"age":99
-},
-{
-"Name":"ananda K_R 2",
-"age":200
-}]
+"name":"ananda K R",
+"age":99,
+"score_in_subjects":[99,84,67]
 }
